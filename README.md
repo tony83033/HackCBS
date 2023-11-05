@@ -1,5 +1,7 @@
 ## Install
 
+- git clone https://github.com/tony83033/HackCBS.git
+
 ### With `docker`
 
 #### Locally
